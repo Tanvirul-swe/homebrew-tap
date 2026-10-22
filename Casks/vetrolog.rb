@@ -2,8 +2,7 @@ cask "vetrolog" do
   version "1.3.0"
   sha256 "489d15623f313f3f8a97ab9e08e58907651efdb8c8fb4365bedd2cdbab0ea378"
 
-  url "https://github.com/Tanvirul-swe/vetrolog/releases/download/v#{version}/VetroLog-macOS-Universal.dmg",
-      verified: "github.com/Tanvirul-swe/vetrolog/"
+  url "https://github.com/Tanvirul-swe/vetrolog/releases/download/v#{version}/VetroLog-macOS-Universal.dmg"
   name "VetroLog"
   desc "Real-time Mobile SQLite Database Inspector for Flutter, Android & React Native"
   homepage "https://vetro.hifzio.com/"
