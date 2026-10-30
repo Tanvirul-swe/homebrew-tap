@@ -1,6 +1,6 @@
 cask "vetrolog" do
-  version "1.4.0"
-  sha256 "42c5b5a6a9bbb4f116c78a0854cc59c4d38ba0fa6b79f563e6626d312dbccef3"
+  version "1.5.0"
+  sha256 "e22982809eb17677a29fe4e7cb86bc5eeb15aed1da23dc2a37345497628fd6db"
 
   url "https://github.com/Tanvirul-swe/vetrolog/releases/download/v#{version}/VetroLog-macOS-Universal.dmg"
   name "VetroLog"
